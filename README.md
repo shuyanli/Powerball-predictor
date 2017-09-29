@@ -1,6 +1,7 @@
 # Powerball-predictor
 
 just for fun, don't use this for gamble or any busness activity! 
+=============================================================================
 self made powerball predictor, there is a powerpoint included that introduce my brief idea
 ==============================================================================
 
