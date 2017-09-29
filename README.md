@@ -1,6 +1,7 @@
 # Powerball-predictor
 
-just for fun, don't use this for gamble or any busness activity! self made powerball predictor
+just for fun, don't use this for gamble or any busness activity! 
+self made powerball predictor, there is a powerpoint included that introduce my brief idea
 ==============================================================================
 
 For Linux user, please run the all the file I included in the folder. Note: you must include the pbhistory.txt in the same folder, otherwise the program will not run successfully.
